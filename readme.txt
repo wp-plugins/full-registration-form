@@ -1,10 +1,10 @@
 === Plugin Name ===
-Contributors: Ralf Hortt
+Contributors: Horttcore
 Donate link: http://horttcore.de/
 Tags: registration, user profile
 Requires at least: 2.3.3
-Tested up to: 2.3.3
-Stable tag:	0.9
+Tested up to: 3.4
+Stable tag:	1.0
 
 Extend your registration form with the user profile fields
 
@@ -22,15 +22,17 @@ Aktivate the plugin.
 
 Sorry no filter in WP 2.3.3 for these fields during the registration process
 
-=There is a blank part in the registration form!=
-Yea, the background image is too short you have to increase it or use my background image.
-
-=Where do I have to put the the background image?=
-./wp-admin/images/login-bkg-tile.gif
-
 = Note =
 This Plugin was written on request
 
 == Screenshots ==
 
-<img src="screenshot.jpg" />
+Registration Form
+
+== Changelog ==
+
+1.0 
+*   A small face lift
+
+0.9
+*   Initial release
